@@ -1,0 +1,25 @@
+.result {
+  margin: 0 auto;
+  text-align: center;
+  width: 900px;
+  height: fit-content;
+}
+.main-result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.main-word {
+  font-size: 40px;
+  font-family: "abel", sens-serif;
+  font-weight: bold;
+  color: black;
+  margin: 0px 130px 0 0;
+}
+.phonetic {
+  font-family: "Abel";
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0 0 0 90px;
+}
