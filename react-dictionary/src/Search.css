@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&display=swap');
+
+h1 {
+    margin: 30px auto;
+    font-family: 'Cinzel', serif;
+    font-weight: 400;
+    font-size: 60px;
+}
+input {
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+}
+button {
+    padding: 8px;
+    
+}
+.search-icon {
+    width: 17px;
+
+}
