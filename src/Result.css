@@ -1,26 +1,51 @@
 .result {
-    margin: 0 auto;
-    text-align: center;
-    width: 900px;
-    height: fit-content;
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+  height: fit-content;
 }
 .main-result {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
 }
 .main-word {
-        font-size: 40px;
-    font-family: 'abel', sens-serif;
-    font-weight: bold;
-    color: black;
-    margin: 0px 130px 0 0;
-    }
+  font-size: 40px;
+  font-family: "abel", sens-serif;
+  font-weight: bold;
+  color: black;
+  margin: 0px 130px 0 0;
+}
 .phonetic {
-    font-family: 'Abel';
-    font-weight: 600;
-    font-size: 20px;
-    margin: 0 0 0 90px;
+  font-family: "Abel";
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0 0 0 90px;
+}
+.noun {
+    text-align: left;
+    padding: 40px 0 0 30px;
+}
+.subject-border {
+  display: inline-block;
+  border-bottom: 1px solid gray;
+}
+.heartAwsome {
+    display: inline-block;
+    color: #ef5da8;
+    font-size: 24px;
+    margin: 0 10px 0 0;
+}
+.subject {
+  display: inline-block;
+  font-family: 'abel';
+  font-weight: 300;
+  font-size: 24px;
+  margin: 0;
+}
+.abjective {
+    text-align: left;
+    padding: 40px 0 0 30px;
 }
