@@ -7,7 +7,7 @@
   width: 1250px;
   transform: translateX(-50%);
   border-radius: 5px;
-
+  padding-bottom: 64px
 }
 
 .App-logo {

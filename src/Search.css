@@ -23,8 +23,10 @@ input[type="search"]{
     padding-left:15px;
     border-radius:20px;
     border:none;
-    color: #fffefc69;
-    font-weight:500;
+    color: black;
+    font-weight:600;
+    font-family: 'Abel';
+    font-size: 16px;
     background-color:#fffbf8;
     -webkit-box-shadow:
         0 -2px 2px 0 rgba(199, 199, 199, 0.55),
