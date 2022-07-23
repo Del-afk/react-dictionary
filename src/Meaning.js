@@ -15,7 +15,7 @@ export default function Meaning(props) {
         {props.meaning.definitions.map((item, index) => {
           return (
             <p key={index}>
-              <strong>Definition {index+1} :</strong>
+              <strong>Definition {index+1} : </strong>
               {item.definition}
               <Example example={item.example} />
             </p>

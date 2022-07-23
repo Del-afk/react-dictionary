@@ -1,7 +1,7 @@
 .result {
   margin: 0 auto;
   text-align: center;
-  width: 500px;
+  width: 700px;
   height: fit-content;
 }
 .main-result {
@@ -27,7 +27,7 @@
 }
 .noun {
     text-align: left;
-    padding: 40px 0 0 30px;
+    padding: 40px 0 0 0px;
 }
 .subject-border {
   display: inline-block;

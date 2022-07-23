@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Synonim(props){
-    console.log(props.synonim);
     if (props.synonim.length){
         return (
             <div>
