@@ -6,7 +6,7 @@
 }
 .main-result {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   justify-content: center;
   align-items: center;
   margin: 20px;
@@ -16,7 +16,7 @@
   font-family: "abel", sens-serif;
   font-weight: bold;
   color: black;
-  margin: 0px 130px 0 0;
+  margin: 0px 20px 0 0;
 }
 .phonetic {
   font-family: "Abel";
